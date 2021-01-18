@@ -10,8 +10,8 @@ My name is Amanda and I'm currently graduating in System Analysis and Developmen
 
 
 **Talking about Personal Stuff:**
-📍 My current areas of interest are mobile app development and web development. 
-📚 I’m currently learning the following languages: CSS, HTML, Node.js and MySQL.
+- 📍 My current areas of interest are mobile app development and web development. 
+- 📚 I’m currently learning the following languages: CSS, HTML, Node.js and MySQL.
 
 ##
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
