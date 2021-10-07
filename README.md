@@ -1,6 +1,5 @@
 
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amanda-limasobrinho/)
-[![Discord Badge](https://img.shields.io/badge/-Discord-7289DA?style=flat&logo=Discord&logoColor=white)](https://www.discord.com/)
 
 ## Hello there! ✌🏻
 
