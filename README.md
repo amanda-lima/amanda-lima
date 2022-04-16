@@ -29,9 +29,6 @@ My name is Amanda and I'm graduated in System Analysis and Development. 💻
     <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
 </div>
 
-<br>
-
-
 ### **Connect with me:**
 
 &nbsp;&nbsp;
