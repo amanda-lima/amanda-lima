@@ -1,16 +1,54 @@
+<h1 align="left">Hello there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
 
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/amanda-limasobrinho/)
+My name is Amanda and I'm graduated in System Analysis and Development. 💻
 
-## Hello there! ✌🏻
+<br>
 
-My name is Amanda and I'm currently graduating in System Analysis and Development. 💻
+### **A little about me:**
+- 📍 My current areas of interest are mobile app development and web application.
+- 📚 I’m currently focusing on learning NextJS and ReactJS.
+- 💼 At the moment I'm working with front-end development.
+- 🐰 Fun fact: I love bunnies!
+
+<br>
+
+### **Languages and Tools:**
+
+<div>
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" />
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" />
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" />
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+    <img height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+</div>
+
+<br>
 
 
-**Talking about Personal Stuff:**
-- 📍 My current areas of interest are mobile app development and web development. 
-- 📚 I’m currently learning the following languages: CSS, HTML, Node.js and MySQL.
+
+### **Connect with me:**
+
+&nbsp;&nbsp;
+[![website](./img/linkedin.svg)](https://www.linkedin.com/in/amanda-limasobrinho)
+
+
+---
 
 ##
 *NOTE: Top languages does not indicate my skill level or something like that, it's a github metric of which languages i have the most code on github, it's a new feature of [github-readme-stats](https://github.com/anuraghazra/github-readme-stats)*
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lima&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+<div align="center">
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=amanda-lima&show_icons=true&theme=dracula"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lima&layout=compact&langs_count=7&theme=dracula"/>
+
+</div>
