@@ -44,3 +44,6 @@ My name is Amanda and I'm graduated in System Analysis and Development. 💻
 <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amanda-lima&layout=compact&langs_count=7&theme=dracula"/>
 
 </div>
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
