@@ -2,7 +2,7 @@
 
 <div style="display: flex; flex-direction: row;">
 <div width="40%">
-<img width="350" align="left" src="./metrics/languages.svg">
+<img width="390" align="left" src="./metrics/languages.svg">
 <img width="390" align="right" src="/metrics/topics.svg" alt="">
 </div>
 <div style="width: 90%; text-align:justify">
