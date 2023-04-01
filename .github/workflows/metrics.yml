@@ -54,6 +54,15 @@ jobs:
           plugin_music_mode: recent
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           plugin_music_limit: 2
+      - name: Icons
+        uses: lowlighter/metrics@latest
+        with:
+          filename: topics.svg
+          token: {secrets.METRICS_TOKEN}
+          base: ""
+          plugin_topics: yes
+          plugin_topics_limit: 0
+          plugin_topics_mode: icons
 
 
 
