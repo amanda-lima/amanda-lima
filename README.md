@@ -1,12 +1,19 @@
-<h1 align="left">Hello there! <img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" width="30px"></h1>
+<h1 align="center">Hello there!</h1>
 
 My name is Amanda and I'm graduated in System Analysis and Development. 💻
 
-### **A little about me:**
+<div width="390" align="left">
+<h2>A little about me:</h2>
+
 - 📍 My current areas of interest are mobile app development and web application.
 - 📚 I’m currently focusing on learning NextJS and ReactJS.
+
 - 💼 At the moment I'm working with front-end development.
 - 🐰 Fun fact: I love bunnies!
+
+</div>
+
+<img width="390" align="right" src="https://github.com/amanda-lima/amanda-lima/metrics/16personalities.svg" alt="">
 
 <br>
 
