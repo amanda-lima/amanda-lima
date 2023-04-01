@@ -13,7 +13,8 @@ My name is Amanda and I'm graduated in System Analysis and Development. 💻
 
 </div>
 
-<img width="390" align="right" src="https://github.com/amanda-lima/amanda-lima/metrics/16personalities.svg" alt="">
+<img width="390" align="right" src="./metrics/16personalities.svg" alt="">
+<img width="390" align="right" src="./metrics/languages.svg" alt="">
 
 <br>
 
