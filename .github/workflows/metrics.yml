@@ -3,28 +3,27 @@ name: Metrics
 on:
   push:
     branches: [main]
-  schedule:
-    - cron: [{ cron: "0 16 * * *" }]
+  schedule: [{ cron: "0 16 * * *" }]
   # 💡 The following line lets you run workflow manually from the action tab!
   workflow_dispatch:
 
 jobs:
   metrics:
-  runs-on: ubuntu-latest
+    runs-on: ubuntu-latest
 
-  steps:
-    - name: MBTI Personality profile
-      uses: lowlighter/metrics@latest
-      with:
-        filename: metrics/16personalities.svg
-        token: ${{ secrets.METRICS_TOKEN }}
-        base: ""
-        plugin_16personalities: yes
-        plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
-        plugin_16personalities_sections: personality, traits
-        plugin_16personalities_scores: no
+    steps:
+      - name: MBTI Personality profile
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/16personalities.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_16personalities: yes
+          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
+          plugin_16personalities_sections: personality, traits
+          plugin_16personalities_scores: no
 
-     - name: Languages Used
+      - name: Languages Used
         uses: lowlighter/metrics@latest
         with:
           filename: metrics/languages.svg
