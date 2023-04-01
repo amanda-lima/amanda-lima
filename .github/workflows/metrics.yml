@@ -30,8 +30,8 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
+          commits_authoring: Amanda Lima, amanda-lima, amanda.limaa0202@gmail.com
           plugin_languages_limit: 4
           delay: 120
-          user: amanda-lima
 
 
