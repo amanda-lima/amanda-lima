@@ -57,7 +57,7 @@ jobs:
       - name: Icons
         uses: lowlighter/metrics@latest
         with:
-          filename: topics.svg
+          filename: metrics/topics.svg
           token: ${{ secrets.METRICS_TOKEN }}
           base: ""
           plugin_topics: yes
