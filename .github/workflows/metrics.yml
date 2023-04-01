@@ -17,7 +17,6 @@ jobs:
         with:
           filename: metrics/metrics.svg
           token: ${{ secrets.METRICS_TOKEN }}
-          base: header
           base_indepth: yes
           config_order: base.header, languages, topics
           plugin_languages: yes
