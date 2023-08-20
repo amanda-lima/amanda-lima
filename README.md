@@ -13,10 +13,10 @@ I'm Amanda, a front-end developer with about 3 years of experience in software d
 
 <h3>Here's a little bit about me:</h3>
 
-    · 📍 Currently, I'm interested in mobile app development and web applications. 
-    · 📚 Right now, my main focus is on learning NextJS and ReactJS.
-    · 💼 I'm currently working in the front-end development field.
-    · 🐰 Fun fact: I absolutely adore bunnies!
+· 📍 Currently, I'm interested in mobile app development and web applications. <br>
+· 📚 Right now, my main focus is on learning NextJS and ReactJS. <br>
+· 💼 I'm currently working in the front-end development field. <br>
+· 🐰 Fun fact: I absolutely adore bunnies! <br>
 
 </div>
 </div>
