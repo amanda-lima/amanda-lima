@@ -24,6 +24,6 @@ I'm Amanda, a front-end developer with about 3 years of experience in software d
 <br> <br> <br> <br> <br>
 
 <div>
-<img align="center" src="https://media.giphy.com/media/VKWax7JlQsily/giphy.gif">
+<img align="center" src=https://i.pinimg.com/originals/f5/ca/b6/f5cab623587c4f1a17da6320559bbba3.gif>
 
 <img align="right" width="390" src="./metrics/about-me.svg">
