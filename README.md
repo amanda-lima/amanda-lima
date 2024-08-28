@@ -1,4 +1,7 @@
-<img width="100%" align="left" src="https://i.imgur.com/bfrRP9c.png"> 
+<div align="center" > 
+  
+<img align="center" src="https://i.imgur.com/XUgQqbi.png"> 
+</div>
 
 <div style="display: flex; flex-direction: row;">
 <div width="40%">
@@ -7,12 +10,10 @@
 </div>
 <div width="40%" >
 
-<img align="left" width="390" width="50%" src="./assets/first-text.svg"> 
+<img align="right" width="390" width="50%" src="./assets/first-text.svg"> 
 
 </div>
 </div>
-
----
 <br> <br>
 
 
