@@ -5,9 +5,9 @@
 
 <img width="390" align="left" width="50%"  src="./metrics/metrics.svg"> 
 </div>
-<div width="300" >
+<div width="40%" >
 
-<img align="left" src="./assets/first-text.svg"> 
+<img align="left" width="390" width="50%" src="./assets/first-text.svg"> 
 
 </div>
 </div>
