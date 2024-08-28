@@ -1,4 +1,4 @@
-<svg xmlns="http://www.w3.org/2000/svg" width="480" height="560" class="">
+<svg xmlns="http://www.w3.org/2000/svg" width="390" height="560" class="">
     <defs>
         <style/>
     </defs>
@@ -8,10 +8,11 @@
         <div xmlns="http://www.w3.org/1999/xhtml" xmlns:xlink="http://www.w3.org/1999/xlink" class="items-wrapper">
             <section>
                     <section>
-                        <div class="field" style="display: flex; flex-direction: column">
+                        <div class="field" style="display: flex; flex-direction: column; text-align: left">
                             <h5>➜ ꒰ Hello there! ♡ ♥︎</h5> <br/>
                             ˖‧ I'm Amanda! 🐇 , , <br/>
-                            ♥︎ I'm a front-end developer with about 3 years of experience in <br/> software development. ʚ💻ɞ <br/>
+                            ♥︎ I'm a front-end developer with about 3 years of experience <br/> 
+                            in software development. ʚ💻ɞ <br/>
                             ♥︎ I graduated in Analysis and Systems Development. *˖‧📎 <br/>
                             ♥︎ My goal and passion is to provide user-friendly and visual  <br/>
                               appealing software, creating the best experience imaginable <br/> 
