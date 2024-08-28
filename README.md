@@ -11,6 +11,7 @@
 <div width="40%" >
 
 <img align="right" width="390" src="./assets/first-text.svg"> 
+<img width="390" align="right" src="./metrics/spotify.svg"> 
 
 </div>
 </div>
