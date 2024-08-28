@@ -7,7 +7,7 @@
 </div>
 <div width="300" >
 
-<img align="left" width="50%" src="./assets/first-text.svg"> 
+<img align="left" src="./assets/first-text.svg"> 
 
 </div>
 </div>
