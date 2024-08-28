@@ -19,7 +19,7 @@ jobs:
           token: ${{ secrets.METRICS_TOKEN }}
           base: header, activity, community, repositories
           base_indepth: yes
-          config_order: base.header, base.activity+community, base.repositories, languages, topics
+          config_order: base.header, base.activity+community, base.repositories, languages, topics, music
           plugin_languages: yes
           plugin_languages_details: bytes-size, percentage
           commits_authoring: Amanda Lima, amanda-lima, amanda.limaa0202@gmail.com
@@ -27,22 +27,23 @@ jobs:
           plugin_topics: yes
           plugin_topics_limit: 0
           plugin_topics_mode: icons
-          
-      - name: About me
-        uses: lowlighter/metrics@latest
-        with:
-          filename: metrics/about-me.svg
-          token: NOT_NEEDED
-          base: ""
-          plugin_16personalities: yes
-          plugin_16personalities_url: ${{ secrets.SIXTEEN_PERSONALITIES_URL }}
-          plugin_16personalities_sections: personality, traits
-          plugin_16personalities_scores: no
           plugin_music: yes
           plugin_music_provider: spotify
           plugin_music_mode: recent
           plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
           plugin_music_limit: 2
+          
+      # - name: About me
+      #   uses: lowlighter/metrics@latest
+      #   with:
+      #     filename: metrics/about-me.svg
+      #     token: NOT_NEEDED
+      #     base: ""
+      #     plugin_music: yes
+      #     plugin_music_provider: spotify
+      #     plugin_music_mode: recent
+      #     plugin_music_token: "${{ secrets.SPOTIFY_CLIENT_ID }}, ${{ secrets.SPOTIFY_CLIENT_SECRET }}, ${{ secrets.SPOTIFY_REFRESH_TOKEN }}"
+      #     plugin_music_limit: 2
 
 
 
