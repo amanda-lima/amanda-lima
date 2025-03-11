@@ -1,6 +1,6 @@
 <div align="center" > 
   
-<img align="center" src="https://i.imgur.com/vk7JD9t.png"> 
+<img align="center" src="https://i.imgur.com/qKqkDgP.png"> 
 </div>
 
 <div style="display: flex; flex-direction: row;">
