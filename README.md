@@ -1,6 +1,6 @@
 <div align="center" > 
   
-<img align="center" src="https://i.imgur.com/XUgQqbi.png"> 
+<img align="center" src="https://i.imgur.com/vk7JD9t.png"> 
 </div>
 
 <div style="display: flex; flex-direction: row;">
@@ -20,5 +20,5 @@
 
 <div style="display: flex; flex-direction: row;">
 <img align="left" width="390"  src="./assets/second-text.svg"> 
-<img align="right" width="390"  src=https://i.imgur.com/4KUqh7s.jpeg>
+<img align="right" width="390"  src=https://i.imgur.com/OZTKsRD.png>
 </div>
