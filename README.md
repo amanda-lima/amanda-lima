@@ -19,6 +19,8 @@
 
 
 <div style="display: flex; flex-direction: row;">
-<img align="left" width="390"  src="./assets/second-text.svg"> 
+<img align="left" width="390"  src="./assets/second-text.svg">
 <img align="right" width="390"  src=https://i.imgur.com/OZTKsRD.png>
+<img width="390" src="./metrics/steam.svg"> 
 </div>
+ 
