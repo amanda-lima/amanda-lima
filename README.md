@@ -24,6 +24,6 @@
 <img width="390" src="./metrics/steam.svg"> 
 </div>
 
-<div style="display: flex; flex-direction: row; justify-content: center; width: 100%">
-<img width="390" src="./metrics/wakatime.svg"> 
+<div align="center" > 
+<img align="center" width="390" src="./metrics/wakatime.svg"> 
 </div>
