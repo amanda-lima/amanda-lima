@@ -52,3 +52,13 @@ jobs:
           plugin_steam_sections: recently-played
           plugin_steam_achievements_limit: 0
 
+      - name: Wakatime
+        uses: lowlighter/metrics@latest
+        with:
+          filename: metrics/wakatime.svg
+          token: NOT_NEEDED
+          base: ""
+          plugin_wakatime_token: ${{ secrets.WAKATIME_TOKEN }}
+          plugin_wakatime: yes
+          plugin_wakatime_sections: time, languages, languages-graphs, editors, os
+          plugin_wakatime_days: 30
