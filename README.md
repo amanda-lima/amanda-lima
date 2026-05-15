@@ -18,9 +18,12 @@
 <br> <br>
 
 
-<div style="display: flex; flex-direction: row;">
+<div width="40%">
 <img align="left" width="390"  src="./assets/second-text.svg">
 <img align="right" width="390"  src=https://i.imgur.com/OZTKsRD.png>
 <img width="390" src="./metrics/steam.svg"> 
 </div>
- 
+
+<div style="display: flex; flex-direction: row; justify-content: center; width: 100%">
+<img width="390" src="./metrics/wakatime.svg"> 
+</div>
