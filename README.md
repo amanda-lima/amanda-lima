@@ -23,7 +23,3 @@
 <img align="right" width="390"  src=https://i.imgur.com/OZTKsRD.png>
 <img width="390" src="./metrics/steam.svg"> 
 </div>
-
-<div align="center" > 
-<img align="center" width="390" src="./metrics/wakatime.svg"> 
-</div>
